@@ -2,12 +2,19 @@
 
 ## Must-Haves
 
-> these are necessary for basic usability
+There should be 3 main functionalities in his app**
+
+- Add a task
+- Modify a task
+- Delete a task
+- Organize tasks by time
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- User could mark the tasks to mark it as completed
+- User could sort the tasks in priority levels
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- User could organize the tasks by category
+- User could organize the tasks by date
